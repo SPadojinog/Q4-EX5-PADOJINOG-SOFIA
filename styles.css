@@ -1,0 +1,25 @@
+ h1 {
+  text-align: center;
+}
+
+.w3-container {
+  margin-top: 1%;
+  margin-left: 30%;
+  margin-right: 30% ;
+  margin-bottom:1%;
+  background-color: #FFA38F;
+  border-style: solid;
+  border-color: #B82132;
+  padding: 1%;
+  font-family: "Sofadi One", serif;
+  font-weight: 100;
+  font-style: normal;
+}
+
+body {
+  background-color: pink;
+}
+
+.InputColor {
+  width: 100%;
+}
